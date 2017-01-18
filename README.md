@@ -1,2 +1,4 @@
 # helllo-world
-My first got repository
+My first git repository
+this is my first experience and its awesome
+lookingforward to learn here
